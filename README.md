@@ -27,7 +27,7 @@ Below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="SAPConcur" src="https://assets-global.website-files.com/5f8b0a1abe69652278dad51c/62607c64fc80f20d2b33f68f_SapConcur.svg"/>](https://www.concur.com.br/)
 
 **Cloud Support Engineer T2-L2** \
-[**SAP Concur**](https://assets-global.website-files.com/5f8b0a1abe69652278dad51c/62607c64fc80f20d2b33f68f_SapConcur.svg) • Full-time (since 2021) \
+[**SAP Concur**](https://www.concur.com.br/) • Full-time (since 2021) \
 Languages and Tools: `HTML`, `SQL`, `Kibana - Elastic`, `Postman API`\
 Tasks to highlight: AMER In-Region Support Contacts for one area of the product, monitor queue's SLA and case triage, following up escalated cases with the Development team, troubleshoot difficult cases
 <br/>
