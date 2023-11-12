@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm Camille, a former Civil Engineer that works as a Cloud Support Engineer. :smile:<br>
+  I'm Camille, a former Civil Engineer who works as a Cloud Support Engineer. :smile:<br>
   
   Currently studying JAVA to enhance my troubleshooting skills, you can check my progress in my [JavaLearning repository](https://github.com/camillepzardo/JavaLearning).
 </p>
