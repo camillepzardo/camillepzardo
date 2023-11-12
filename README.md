@@ -29,8 +29,7 @@ Below you will find my most recent work experience:
 **Cloud Support Engineer T2-L2** \
 [**SAP Concur**](https://assets-global.website-files.com/5f8b0a1abe69652278dad51c/62607c64fc80f20d2b33f68f_SapConcur.svg) • Full-time (since 2021) \
 Languages and Tools: `HTML`, `SQL`, `Kibana - Elastic`, `Postman API`\
-Tasks to highlight: AMER In-Region Support Contacts for one specific area of the product, is part of my daily task monitor queue SLA and case triage, following up escalated cases with the
-Development team, helping troubleshoot difficult cases
+Tasks to highlight: AMER In-Region Support Contacts for one area of the product, monitor queue's SLA and case triage, following up escalated cases with the Development team, troubleshoot difficult cases
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="HCLTech" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAj2bRDC2PYkDMo0lA5ieH_hQ-Vvq4IHYxmJcBZ3OeZeOelyVf8x4vRJyklqoi8GBocE&usqp=CAU"/>](https://www.hcltech.com/geo-presence/brazil)
