@@ -22,7 +22,7 @@
   <a href = "mailto:camillepzardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camillezardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Abaixo você encontrará minha experiência de trabalho mais recente:
+Below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="SAPConcur" src="https://assets-global.website-files.com/5f8b0a1abe69652278dad51c/62607c64fc80f20d2b33f68f_SapConcur.svg"/>](https://www.concur.com.br/)
 
