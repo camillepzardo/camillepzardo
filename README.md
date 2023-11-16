@@ -36,8 +36,8 @@ Tasks to highlight: AMER In-Region Support Contacts for one area of the product,
 
 **Senior Trilingual Service Desk Analyst** \
 [**HCL Technologies**](https://www.hcltech.com/geo-presence/brazil) • 2019-2021 \
-Linguagens & Tecnologias: `PeopleSoft ERP`, `SLA management`, `Basic Networks validation (Protocols TCP, UDP, ICMP)`
-
+Linguagens & Tecnologias: `PeopleSoft ERP`, `SLA management`, `Basic Networks validation (Protocols TCP, UDP, ICMP)`<br>
+Tasks to highlight: part of the RDS team, helped L1 analysts in troubleshooting, updated knowledge base, SLA management
 <br/>
 
   
